@@ -49,4 +49,4 @@ This is a countrywide car accident dataset, which covers 49 states of the USA. T
    
    b. But if we want to resolve the accident type with severity 3 and 4 that occurs the most during the day, then "At I-15 - Accident" needs to be resolved as it occurs 7 times at 6 AM and 6 times at 6 PM, the highest occuring accident during commute hours. Compared to this, "At I-605 - Accident" occurs only 6 times a day and that too at 5 AM which is not a commute time. 
 
-** All images were created using Tableau Software
+** All images were created using Tableau software. Link to Tableau profile: https://public.tableau.com/app/profile/vikas4821
