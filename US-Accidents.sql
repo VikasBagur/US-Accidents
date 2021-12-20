@@ -58,6 +58,8 @@ GROUP BY Description, State
 ORDER BY Accident_count DESC, State ASC
 
 --#5 Next we have to find the time at which most accidents occur with severity 3 and 4 (Point No 4)
+
+--Extracting hour from Time column and converting it from 24hr format to 12 hour format.
 WITH CTE1 AS
 (
 SELECT Severity, State, DATEPART(HOUR, Time) as hour_of_day, COUNT(*) as No_of_accidents
