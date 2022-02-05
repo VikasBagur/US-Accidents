@@ -19,7 +19,7 @@ This is a countrywide car accident dataset, which covers 49 states of the USA. T
  
 **Insights and Recommendations**
 
-1. First we start by finding out which state in the US has the highest amount of accidents. As we can see from the image below, California has the highest no of accidents with a count of 448,484 accidents from February 2016 to Dec 2020.
+1. First we start by finding out which state in the US has the highest amount of accidents. As we can see from the image below, California has the highest no of accidents with a count of 448,484 accidents from February 2016 to Dec 2020. In the image below we can see the top 10 states with high accident count.
 
 ![Total Accidents Per State](https://user-images.githubusercontent.com/65936796/146765458-c7b09dc1-326c-4616-8858-9a1287d30a08.png)
 
